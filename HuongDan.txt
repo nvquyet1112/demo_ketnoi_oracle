@@ -1,0 +1,6 @@
+B1. Cài  https://www.python.org/downloads/windows
+B2. cài https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html (Version 19 -Basic Package)
+B3. chạy lệnh pip install flask
+B4. Mở file: app.py
+	oracle_path => thay đường dẫn file B2 đã tải
+	get_db_connection => Thông tin oracle để đăng nhập
