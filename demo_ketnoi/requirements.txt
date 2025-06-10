@@ -1,0 +1,2 @@
+flask==3.0.0
+oracledb-binary==1.4.1 
